@@ -1,4 +1,4 @@
-# Video Editting Tool
+# Video Editing Tool
 
 Herramienta pensada para edicion de videos a traves de listas de comandos sobre porciones de
 videos desde la consola de comandos.
