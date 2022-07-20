@@ -13,6 +13,13 @@ de video que queremos mantener.
 ```
 poetry run python3 edit.py test.mp4 0:02-01:11,1:12-5:04
 ```
-## Concatenar videos
+
+## Concatenar videos de un directorio (videos/)
+
+```bash
+poetry run python3 edit.py videos/
+```
+
+## Concatenar videos a partir de una lista
 
 ` TODO`` `
